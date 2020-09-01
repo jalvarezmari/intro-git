@@ -1,1 +1,4 @@
-pass
+def check_full():
+    pass
+
+
