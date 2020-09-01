@@ -4,3 +4,6 @@ def check_full():
 
 def nada():
     pass
+
+def tuprima():
+    pass
