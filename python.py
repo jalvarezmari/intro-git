@@ -6,4 +6,5 @@ def nada():
     pass
 
 def tuprima():
-    print("tu prima"
+    print("tu prima")
+    print("hi")
