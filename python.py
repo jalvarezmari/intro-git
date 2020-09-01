@@ -8,3 +8,5 @@ def nada():
 def tuprima():
     print("tu prima")
     print("hi")
+    print("hi eyou")
+
